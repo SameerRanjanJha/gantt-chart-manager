@@ -1,0 +1,16 @@
+name,start,end,owner
+Project Planning,2024-02-01,2024-02-14,Sarah Johnson
+Market Research,2024-02-05,2024-02-19,Michael Chen
+Database Design,2024-02-15,2024-02-28,David Rodriguez
+UI/UX Design,2024-02-20,2024-03-12,Emily Watson
+Backend Development,2024-03-01,2024-03-25,Michael Chen
+Frontend Development,2024-03-13,2024-04-05,Emily Watson
+Authentication System,2024-03-20,2024-04-02,David Rodriguez
+Payment Integration,2024-04-01,2024-04-15,Jennifer Liu
+Testing Phase,2024-04-06,2024-04-22,Sarah Johnson
+Mobile App Development,2024-04-10,2024-05-08,Alex Kim
+Security Audit,2024-04-16,2024-04-30,David Rodriguez
+Bug Fixes,2024-04-23,2024-05-10,Michael Chen
+Documentation,2024-05-01,2024-05-15,Jennifer Liu
+Deployment Setup,2024-05-11,2024-05-25,Alex Kim
+Go Live,2024-05-20,2024-05-30,Sarah Johnson
